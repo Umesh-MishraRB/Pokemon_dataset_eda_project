@@ -54,7 +54,7 @@ Example dataset source:
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Jupyter Notebook / google notebook
 
 ---
 
